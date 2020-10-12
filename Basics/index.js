@@ -1,0 +1,1 @@
+console.log("Hello User now you are inside the JavaScript");
